@@ -1,0 +1,11 @@
+{
+  "name": "Silent Fear",
+  "version": "1.0.0",
+  "description": "This is dclxviclan game",
+  "manifest_version": 3,
+  "author": "dclxviclan",
+  "action": {
+    "default_popup": "index.html",
+    "default_tittle": "Silent Fear"
+  }
+}
